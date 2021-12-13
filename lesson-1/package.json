@@ -13,6 +13,7 @@
   "dependencies": {
     "color": "^4.0.2",
     "colors": "^1.4.0",
-    "index.js": "^0.0.3"
+    "index.js": "^0.0.3",
+    "prompts": "^2.4.2"
   }
 }
